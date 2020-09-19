@@ -1,0 +1,9 @@
+node_modules
+yarn-error.log
+
+# Ignore the tests directory in the root
+tests
+
+# Ignore the tests file in the root
+test.js
+test.ts
